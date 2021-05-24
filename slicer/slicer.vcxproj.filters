@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AABB.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AABB3D.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="algorithm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AngleDegrees.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AngleRadians.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Comb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CombPath.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CombPaths.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Coord_t.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Date.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Duration.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="floatpoint.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FMatrix4x3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IntPoint.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LayerIndex.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LazyInitialization.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="linearAlg2D.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LinePolygonsCrossings.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListPolyIt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Lock.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="macros.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MATHH.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshGroup.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MinimumSpanningTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NoCopy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="optional.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="orderOptimizer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Point3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="polygon.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PolygonConnector.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PolygonProximityLinker.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PolygonsPointIndex.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="polygonUtils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ProximityPointLink.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Ratio.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sliceData.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SparseGrid.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SparseLineGrid.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SparsePointGrid.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SparsePointGridInclusive.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Velocity.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZigZagConnectorProcessor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UnionFind.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="str.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="slicer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sliceProcess.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="infill.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NoZigZagConnectorProcessor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AABB.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AABB3D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Comb.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Date.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FMatrix4x3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LinearAlg2D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LinePolygonsCrossings.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ListPolyIt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mesh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshGroup.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MinimumSpanningTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NoZigZagConnectorProcessor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Point3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="polygon.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PolygonConnector.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PolygonProximityLinker.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PolygonsPointIndex.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="polygonUtils.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ProximityPointLink.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sliceData.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZigZagConnectorProcessor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mian.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="slicer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sliceProcess.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="infill.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
